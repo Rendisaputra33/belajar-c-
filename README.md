@@ -165,7 +165,7 @@ if (...) {
 
 ---
 
-## 5️⃣ Contoh Sederhana untuk Anak SMP
+## 5️⃣ Contoh Sederhana
 
 ### 🎮 Contoh Game Nyawa
 
@@ -207,13 +207,5 @@ if (umur < 13) {
 | `<`       | Lebih kecil        |
 
 ---
-
-Kalau mau, aku bisa:
-
-* Buatkan **latihan soal + jawaban**
-* Buat **contoh studi kasus sehari-hari**
-* Atau versi **ringkas 1 halaman buat catatan sekolah**
-
-Tinggal bilang saja 👍
 
 
